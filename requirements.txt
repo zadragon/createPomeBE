@@ -2,6 +2,6 @@ flask
 flask-cors
 torch
 transformers
-openai
+openai==0.28
 gunicorn
 python-dotenv
